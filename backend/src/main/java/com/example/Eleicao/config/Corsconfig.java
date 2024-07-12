@@ -1,4 +1,3 @@
-/*
 
 package com.example.Eleicao.config;
 
@@ -22,4 +21,3 @@ public class Corsconfig {
         return new CorsFilter(source);
     }
 }
-*/
